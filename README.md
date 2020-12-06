@@ -2,7 +2,7 @@
 Our 2020 NwPlus HackCamp submission.
 
 # Purpose:
-During the Covid-19 pandemic, social distancing is essential to mainting public health. As laws
+During the Covid-19 pandemic, social distancing is essential to maintaining public health. As laws
 surrounding public health change and become more restrictive, it's difficult to find safe public
 outlets. This app is designed for users to find safe reccomendations where they can minimize contact
 with others. In non-pandemic times, it's also useful for finding non-crowded places to study, or
